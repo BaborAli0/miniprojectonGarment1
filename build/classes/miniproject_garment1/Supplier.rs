@@ -1,0 +1,1 @@
+com.mycompany.minigarmentsjavaproject.Supplier
