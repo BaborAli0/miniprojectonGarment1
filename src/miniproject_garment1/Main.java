@@ -7,7 +7,7 @@ import java.util.Date;
 public class Main {
     public static void main(String[] args) {
        
-        Customer customer = new Customer("C001", "Babor Ali", "babor12@.com", "35-733664");
+        Customer customer = new Customer("C001", "Alice Johnson", "alice@example.com", "123-456-7890");
 
        
         Fabric fabric1 = new Fabric("F001", "Cotton", "Blue", 10.5);
@@ -24,7 +24,7 @@ public class Main {
         inventory.displayGarments();
 
        
-        Supplier supplier = new Supplier("S001", "Utsho utsho", "contact@utshoutsho.com");
+        Supplier supplier = new Supplier("S001", "John Supplies", "contact@johnsupplies.com");
         supplier.addFabric(fabric1);
         supplier.addFabric(fabric2);
 

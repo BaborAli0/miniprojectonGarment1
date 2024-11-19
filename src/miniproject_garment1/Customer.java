@@ -1,7 +1,11 @@
 import java.util.List;
+import java.util.ArrayList;
+import java.util.Date;
+
+// Your class definitions go here
 
 public class Customer {
-    
+   // import java.util.List;
     private String customerID;
     private String customerName;
     private String emailAddress;

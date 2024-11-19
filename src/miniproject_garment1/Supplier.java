@@ -1,6 +1,6 @@
 
 package com.mycompany.minigarmentsjavaproject;
-    import java.util.ArrayList;
+   import java.util.ArrayList;
    import java.util.List;
 
 public class Supplier {
